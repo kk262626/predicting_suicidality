@@ -1,6 +1,6 @@
 # Comparing composite and component machine learning models for predicting suicide-related outcomes
 
-This is the source code for predicting self-harm, suicidal ideation, and suicide attempts reported in K cohort Wave 8 of the LSAC data. 
+This is the source code for predicting self-harm, suicidal ideation, and suicide attempts reported in K cohort Wave 8 of the LSAC data, using predictors sampled from Wave 7.
 
 ### Dataset
 The LSAC dataset can be obtained after application from DSS Dataverse: https://dataverse.ada.edu.au/dataverse/DSSLongitudinalStudies. 
