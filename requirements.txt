@@ -1,0 +1,4 @@
+pyreadstat
+pandas
+numpy
+Ipython.core.interactiveshell
