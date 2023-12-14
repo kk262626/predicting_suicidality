@@ -1,4 +1,5 @@
 pyreadstat
 pandas
 numpy
-Ipython.core.interactiveshell
+scikit-learn
+matplotlib
