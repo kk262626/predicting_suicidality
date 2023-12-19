@@ -1,5 +1,6 @@
-pyreadstat
-pandas
-numpy
-scikit-learn
 matplotlib
+numpy
+pandas
+pyreadstat
+scikit-learn
+
