@@ -2,5 +2,6 @@ matplotlib
 numpy
 pandas
 pyreadstat
+researchpy
 scikit-learn
 xgboost
