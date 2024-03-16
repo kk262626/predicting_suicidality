@@ -4,6 +4,6 @@ ipywidgets
 pandas
 pyreadstat
 researchpy
-scikit-learn
+scikit-learn==1.3.2
 shap
 xgboost
